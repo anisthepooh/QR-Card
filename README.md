@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [See the live project](https://anisthepooh.github.io/QR-Card/)
 
 ### Built with
 
@@ -32,5 +32,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://casperanisimow.dk)
+- Website - [Casper Anisimow](https://casperanisimow.dk)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
