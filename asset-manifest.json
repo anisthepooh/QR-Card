@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QR-Card/static/css/main.e7c34ffe.css",
+    "main.js": "/QR-Card/static/js/main.bead0c28.js",
+    "static/js/787.a4d06333.chunk.js": "/QR-Card/static/js/787.a4d06333.chunk.js",
+    "index.html": "/QR-Card/index.html",
+    "main.e7c34ffe.css.map": "/QR-Card/static/css/main.e7c34ffe.css.map",
+    "main.bead0c28.js.map": "/QR-Card/static/js/main.bead0c28.js.map",
+    "787.a4d06333.chunk.js.map": "/QR-Card/static/js/787.a4d06333.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7c34ffe.css",
+    "static/js/main.bead0c28.js"
+  ]
+}
